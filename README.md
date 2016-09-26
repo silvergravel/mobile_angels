@@ -88,5 +88,10 @@ https://slack.com/<br>
 **SBB Database**<br>
 http://data.sbb.ch/explore/?sort=modified<br>
 <br>
+<br>
 
 ###### Further Developments
+
+**Automated GPS tracking to improve system intelligence**
+
+Assistance for special needs
