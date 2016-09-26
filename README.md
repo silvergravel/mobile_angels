@@ -92,6 +92,14 @@ http://data.sbb.ch/explore/?sort=modified<br>
 
 ###### Further Developments
 
-**Automated GPS tracking to improve system intelligence**
+**Automated GPS tracking to improve system intelligence**<br>
+<img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/further0.jpg" width="50%">
 
-Assistance for special needs
+**Assistance for special needs**<br>
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/further1.jpg)
+
+**Refreshments and station services**<br>
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/further2.jpg)
+
+**Assistance for connecting buses and cable cars**<br>
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/further3.jpg)
