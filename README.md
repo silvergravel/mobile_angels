@@ -16,14 +16,14 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 <br>
 
 ## The Problem:
-- **Train Travel can be overwhelming for the elderly.** <br>Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
+**Train Travel can be overwhelming for the elderly.** <br>Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
 <br>
 <br>
 ![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/schedule.jpg)
 <br>
 <br>
 
-- **Technological Fears.** <br>General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
+**Technological Fears.** <br>General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
 <br>
 <br>
 ![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/techFear.jpg)
