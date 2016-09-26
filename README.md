@@ -1,5 +1,7 @@
-<h1 style = "text-style: underline"># mobile_angels</h1>
+# mobile_angels
 the sbb travel assistant
+
+team: graham tritt, ahmed, almerey karwan, abrar burk
 
 Application References:
 tourist angels,
