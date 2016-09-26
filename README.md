@@ -76,4 +76,15 @@ Travel Angels is an SMS based, intelligent travel assistant, that provides perso
 
 ###### The Prototype
 
+###### Tech Specs
+**Hubot**<br>
+https://hubot.github.com/<br>
+<br>
+**Slack**<br>
+https://slack.com/<br>
+<br>
+**SBB Database**<br>
+http://data.sbb.ch/explore/?sort=modified<br>
+<br>
+
 ###### Further Developments
