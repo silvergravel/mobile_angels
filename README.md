@@ -1,5 +1,5 @@
 # Mobile Angels
-the sbb travel assistant
+the sbb travel assistant<br>
 ![alt tag](http://maps.vasile.ch/transit-sbb/static/images/embed_social_200px.png)
 
 
