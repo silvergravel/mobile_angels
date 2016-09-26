@@ -19,6 +19,12 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 <br>
 
 - **Technological Fears.** <br>General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
+<br>
+<br>
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/techFear.jpg)
+<br>
+<br>
+
 
 ## Framework Definition
 Our focus:
