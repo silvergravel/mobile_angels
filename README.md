@@ -13,7 +13,7 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 ## The Problem:
 - **Train Travel can be overwhelming for the elderly.** <br>Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
 
-- **Technological apprehensions.** <br>General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
+- **Technological Fears.** <br>General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
 
 ## Framework Definition
 Our focus:
