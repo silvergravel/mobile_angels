@@ -1,7 +1,8 @@
 # Mobile Angels
-The Sbb Travel Assistant
+**The Sbb Travel Assistant**
 ###### Team: 
 Graham Tritt, Ahmed Alhammadi, Almerey Karwan, Abrar Burk
+
 
 ## Project Challenge:
 Build on the existing services and data provided by SBB, to simplify the travel experience of the elderly.
