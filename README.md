@@ -11,7 +11,7 @@ SBB open data portal: http://data.sbb.ch/explore/?sort=modified
 It provides access to SBB train timings, refreshments and other ammenities on train stations, and a lot more.
 
 ## The Problem:
-- **Train Travel can be overwhelming for the elderly.** Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
+- **Train Travel can be overwhelming for the elderly.** <br>Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
 - **Technological apprehensions.** General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
 
 ## Framework Definition
