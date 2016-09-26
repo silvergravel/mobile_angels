@@ -57,7 +57,9 @@ https://digit.co/<br>
 
 
 ## Values 
-Independence, Convenience, Personalized
+- Independence
+- Convenience
+- Personalized
 <br>
 <br>
 
