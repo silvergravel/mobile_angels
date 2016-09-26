@@ -2,8 +2,7 @@
 **The Sbb Travel Assistant**
 ###### Team: 
 Graham Tritt, Ahmed Alhammadi, Almerey Karwan, Abrar Burk
-
-
+<br>
 ## Project Challenge:
 Build on the existing services and data provided by SBB, to simplify the travel experience of the elderly.
 
