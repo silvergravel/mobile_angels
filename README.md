@@ -75,8 +75,11 @@ Travel Angels is an SMS based, intelligent travel assistant, that provides perso
 - SBB could provide a yearly chat-bot subscription for people who would like constant assistance during their train journeys. - Subscribed members would receive SMS guidance with regards to their train timings, platform numbers, connecting train details, refreshment and other station amenities, and also assistance in stressful situations like boarding wrong trains and reaching unintended locations.
 - The idea was to develop a friendly and approachable AI driven assistant, that responds to natural language of the user, thereby making the user experience extremely intuitive and comfortable considering the target user group<br>
 ![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/explorations.jpg)
+<br>
+<br>
 
 ###### The Prototype
+
 
 ###### Tech Specs
 **Hubot**<br>
