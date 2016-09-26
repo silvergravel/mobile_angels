@@ -9,6 +9,7 @@ Build on the existing services and data provided by SBB, to simplify the travel 
 
 SBB open data portal: http://data.sbb.ch/explore/?sort=modified
 It provides access to SBB train timings, refreshments and other ammenities on train stations, and a lot more.
+<img src="http://www.arezzonotizie.it/wp-content/uploads/2015/11/Figaro-Il-Tennico.jpg" width="50%">
 
 ## The Problem:
 - **Train Travel can be overwhelming for the elderly.** <br>Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
