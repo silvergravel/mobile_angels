@@ -1,9 +1,6 @@
 # Mobile Angels
-the sbb travel assistant<br>
-![alt tag](http://maps.vasile.ch/transit-sbb/static/images/embed_social_200px.png)
-
-
-## Team: 
+The Sbb Travel Assistant
+###### Team: 
 Graham Tritt, Ahmed Alhammadi, Almerey Karwan, Abrar Burk
 
 ## Project Challenge:
