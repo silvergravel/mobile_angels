@@ -11,8 +11,8 @@ SBB open data portal: http://data.sbb.ch/explore/?sort=modified
 It provides access to SBB train timings, refreshments and other ammenities on train stations, and a lot more.
 
 ## The Problem:
-- Train travel from one place to another can sometimes be overwhelming for the elderly.
-- Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
+- **Train Travel can be overwhelming for the elderly.** Keeping track of connecting train numbers, correct boarding platforms, transfer times, etc can lead to confusion, sometimes resulting in unfortunate situations.
+- **Technological apprehensions.** General resistance towards using phone applications, sometimes even smartphones, reduces the possibilities of using new technological solutions to address this problem. 
 
 ## Framework Definition
 Our focus:
@@ -27,15 +27,14 @@ seniorservice 24,
 digit.
 
 ## Values 
-Independence, Convenience, Personal
-
-## Vision
-Help on the station
+Independence, Convenience, Personalized
 
 ## Mission?
-XXXX
+Travel Angels is an SMS based, intelligent travel assistant, that provides personalized guidance to the elderly through every stage of their SBB journey, from home till destination.
 
 ## Strategy
+###### The Vision
+
 ###### The Prototype
 
 ###### Further Developments
