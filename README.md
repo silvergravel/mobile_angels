@@ -27,7 +27,7 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 
 
 ## Framework Definition
-Our focus:
+**Our focus:**<br>
 How do you simplify SBB train schedule information such that, the elderly have a clear understanding and therefore, a frictionless journey from home to destination?
 
 ## Inspirations:
