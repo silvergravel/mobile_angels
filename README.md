@@ -36,8 +36,10 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 How do you simplify SBB train schedule information such that, the elderly have a clear understanding and therefore, a frictionless journey from home to destination?
 
 ## Inspirations:
-Application References:
-railways
+<div style="float: left">**Tourist Angels**<br>
+http://www.touristangelapp.com/</div>
+<div style="float: left">Application References:
+railways</div>
 tourist angels,
 eden spkrmn proline,
 seniorservice 24,
