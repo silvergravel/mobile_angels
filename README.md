@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/logoAngels.jpg" width="25%"></img>
+<img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/logoAngels.jpg" width="25%">
 # Mobile Angels
 **The Sbb Travel Assistant**
 ###### Team: 
@@ -39,16 +39,16 @@ How do you simplify SBB train schedule information such that, the elderly have a
 ## Inspirations:
 **Tourist Angels**
 http://www.touristangelapp.com/
-![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/touristAngels.jpg)
+<img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/touristAngels.jpg" width="50%">
 
 **Senior Service 24**
 https://seniorservice24.ch/
-![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/seniorService.jpg)
+<img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/seniorSerive.jpg" width="50%">
 
 
 **Digit**
 https://digit.co/
-![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/digit.jpg)
+<img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/digit.jpg" width="50%">
 
 
 ## Values 
