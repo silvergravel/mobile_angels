@@ -37,17 +37,17 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 How do you simplify SBB train schedule information such that, the elderly have a clear understanding and therefore, a frictionless journey from home to destination?
 
 ## Inspirations:
-**Tourist Angels**
-http://www.touristangelapp.com/
+**Tourist Angels**<br>
+http://www.touristangelapp.com/<br>
 <img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/touristAngels.jpg" width="50%">
 
-**Senior Service 24**
-https://seniorservice24.ch/
+**Senior Service 24**<br>
+https://seniorservice24.ch/<br>
 <img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/seniorSerive.jpg" width="50%">
 
 
-**Digit**
-https://digit.co/
+**Digit**<br>
+https://digit.co/<br>
 <img src="https://raw.githubusercontent.com/silvergravel/mobile_angels/master/digit.jpg" width="50%">
 
 
