@@ -50,7 +50,8 @@ Independence, Convenience, Personalized
 Travel Angels is an SMS based, intelligent travel assistant, that provides personalized guidance to the elderly through every stage of their SBB journey, from home till destination.
 
 ## Strategy
-###### The Vision
+###### Initial Vision
+- SBB could provide a yearly chat-bot subscription for people who would like constant assistance during their train journeys. - Subscribed members would receive SMS guidance with regards to 
 
 ###### The Prototype
 
