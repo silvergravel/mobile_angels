@@ -38,13 +38,17 @@ How do you simplify SBB train schedule information such that, the elderly have a
 ## Inspirations:
 **Tourist Angels**
 http://www.touristangelapp.com/
-
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/touristAngels.jpg)
 
 **Senior Service 24**
 https://seniorservice24.ch/
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/seniorService.jpg)
+
 
 **Digit**
 https://digit.co/
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/digit.jpg)
+
 
 ## Values 
 Independence, Convenience, Personalized
