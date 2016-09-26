@@ -1,7 +1,8 @@
 # mobile_angels
-the sbb travel assistant
+## the sbb travel assistant
 
-team: graham tritt, ahmed, almerey karwan, abrar burk
+###### team: 
+graham tritt, ahmed, almerey karwan, abrar burk
 
 Application References:
 tourist angels,
