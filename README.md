@@ -79,7 +79,9 @@ Travel Angels is an SMS based, intelligent travel assistant, that provides perso
 <br>
 
 ###### The Prototype
-
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/proto.jpg)
+<br>
+<br>
 
 ###### Tech Specs
 **Hubot**<br>
