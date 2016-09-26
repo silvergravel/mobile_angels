@@ -1,5 +1,7 @@
 # Mobile Angels
 the sbb travel assistant
+![alt tag](http://maps.vasile.ch/transit-sbb/static/images/embed_social_200px.png)
+
 
 ## Team: 
 Graham Tritt, Ahmed Alhammadi, Almerey Karwan, Abrar Burk
