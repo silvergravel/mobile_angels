@@ -28,16 +28,15 @@ It provides access to SBB train timings, refreshments and other ammenities on tr
 <br>
 <br>
 
+![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/techFear.jpg)
+<br>
+<br>
+
 **Current SBB SMS service** <br>SBB already has an SMS service called 'Procom' meant to provide assistance to hearing impaired passengers. You can read more about it here: http://www.sbb.ch/en/station-services/passengers-with-reduced-mobility/hearing-impaired.html<br>
 <br>
 Curiosity led us to send an SMS to the provided number and see what sort of response we get. However, the response was bizzare to say the least. An outright 'Who are you?' made us feel like we had just prank texted someone who didn't take very kindly to it. Not exactly the kind of feeling one would want from an assistance service!
 <br>
 <br>
-
-![alt tag](https://raw.githubusercontent.com/silvergravel/mobile_angels/master/techFear.jpg)
-<br>
-<br>
-
 
 ## Framework Definition
 **Our focus:**<br>
