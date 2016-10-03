@@ -106,7 +106,7 @@ https://www.twilio.com/<br>
 <br>
 We used the Hubot framework to develop the Bot that used the SBB train schedule API to provide relevant guidance. The initial prototype was implemented in Slack, however since SMS is the best mode of communication with our target user, the BOT can be very quickly swapped to an SMS based service using the Twilio SMS adapter: https://hubot.github.com/docs/adapters/<br>
 <br>
-A few tests with Twilio suggested that it is probably one of the best and cost efficent ways to deliver information on the web, through SMS
+A few tests with Twilio suggested that it is probably one of the best and cost efficent ways to deliver information on the web, through SMS.
 <br>
 <br>
 
